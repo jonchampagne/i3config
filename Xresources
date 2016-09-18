@@ -1,0 +1,4 @@
+XTerm*reverseVideo: on
+URxvt*background: rgb:00/00/00
+URxvt*foreground: rgb:EE/EE/EE
+URxvt.font: xft:Ubuntu Mono:size=12
