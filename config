@@ -166,3 +166,4 @@ bar {
 
 exec pulseaudio -D
 exec compton -b
+exec xrdb ~/.Xresources
